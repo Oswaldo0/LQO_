@@ -1,0 +1,14 @@
+target/
+.mvn/wrapper/maven-wrapper.jar
+*.log
+.idea/
+.vscode/
+*.iml
+
+# Node/Vite
+node_modules/
+dist/
+.npm-cache/
+
+# Runtime/generated files
+*.err.log
